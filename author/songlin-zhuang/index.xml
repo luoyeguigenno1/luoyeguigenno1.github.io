@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Songlin Zhuang | Chun-xiang WANG</title>
+    <link>/author/songlin-zhuang/</link>
+      <atom:link href="/author/songlin-zhuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Songlin Zhuang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Songlin Zhuang</title>
+      <link>/author/songlin-zhuang/</link>
+    </image>
+    
+    <item>
+      <title>Automated High-throughput Zebrafish Larval Group Behavior Analysis and Categorization (in preparation)</title>
+      <link>/publication/automated-high-throughput-zebrafish-larval-group-behavior-analysis-and-categorization/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/automated-high-throughput-zebrafish-larval-group-behavior-analysis-and-categorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotic Zebrafish Larval Positioning: Tackling Nonlinear Dynamics and Varying Larval Sizes (in preparation)</title>
+      <link>/publication/robotic-zebrafish-larval-positioning-tackling-nonlinear-dynamics-and-varying-larval-sizes/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/robotic-zebrafish-larval-positioning-tackling-nonlinear-dynamics-and-varying-larval-sizes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DanioSense Automated High-throughput Quantification of Zebrafish Larvae Group Movement</title>
+      <link>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual-Based Contact Detection for Automated Zebrafish Larva Heart Microinjection</title>
+      <link>/publication/visual-based-contact-detection-for-automated-zebrafish-larva-heart-microinjection/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0800</pubDate>
+      <guid>/publication/visual-based-contact-detection-for-automated-zebrafish-larva-heart-microinjection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chun-xiang WANG</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chun-xiang WANG</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Chun-xiang WANG</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated High-throughput Zebrafish Larval Group Behavior Analysis and Categorization (in preparation)</title>
+      <link>/publication/automated-high-throughput-zebrafish-larval-group-behavior-analysis-and-categorization/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/automated-high-throughput-zebrafish-larval-group-behavior-analysis-and-categorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotic Zebrafish Larval Positioning: Tackling Nonlinear Dynamics and Varying Larval Sizes (in preparation)</title>
+      <link>/publication/robotic-zebrafish-larval-positioning-tackling-nonlinear-dynamics-and-varying-larval-sizes/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/robotic-zebrafish-larval-positioning-tackling-nonlinear-dynamics-and-varying-larval-sizes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DanioSense Automated High-throughput Quantification of Zebrafish Larvae Group Movement</title>
+      <link>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Tracking Zebrafish Larvae in Group</title>
+      <link>/project/automatic-tracking-zebrafish-larvae-in-group/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/automatic-tracking-zebrafish-larvae-in-group/</guid>
+      <description>&lt;p&gt;Video tracking has become a standard procedure for studying model organisms&#39; functional characteristics, during which the trajectory of each animal and their corresponding movement information are extracted for a range of biomedical studies, such as genetics, drug discovery, toxicology, behavioral science, etc. Manual tracking via frame-by-frame labeling is time-consuming, subjective, and tedious, whose results are often not consistent due to the fatigue and inexperience of operators. Therefore, an automatic tracking system is indispensable, which achieves a remarkedly higher research output and provides more insightful and detailed statistics.&lt;/p&gt;
+&lt;p&gt;Zebrafish larva stands out as a popular vertebrate model organism for large-scale chemical and genetic screens due to its high similarity of gene and cardiovascular system to human, optical transparency, easiness of acquisition, and rapid developmental process. Compared with other experimental organisms of zebrafish, larval motility, along with the transparent morphology, implies more phenotypic information than cells and embryos. Unlike adult zebrafish, larval relative transparency and immature nervous system allow detailed studies of gene regulation and function and neuropharmacological studies that cannot be performed in the adult period. Researchers generally transfer foreign materials into zebrafish embryos or specific organs of zebrafish larvae after which larval locomotive behaviors are recorded for further analysis. These investigations cover the fields of the analysis of movement characteristics, social behavior, and the assessment of phenotypes resulting from:  gene knockdown approaches, genetic mutations, drugs, etc.&lt;/p&gt;
+&lt;p&gt;Many single and multiple object tracking systems have been developed for adult zebrafish, reporting outstanding tracking performance. However, their performance dramatically drops when applied to a larvae group, where individuals&#39; identities switch easily, and thus the statistical data is not usable. This weakeness highly limits the efficiency of relevant biomedical research. Over an extended period, tracking a larval zebrafish group is a labor-consuming manual work due to these systems’ inability to generate reliable results.&lt;/p&gt;
+&lt;p&gt;It is small size, transparent and similar appearance, frequent occlusions, and discontinuous kinematics that combine to make larval tracking notoriously difficult.  Small size makes a multiple-sensor tracking system and labeling approaches infeasible due to imaging and operating constraints. Transparent and similar appearance causes tracking algorithms based on extracting superficial appearance features to fail, as the difference between larvae’s appearance is much less distinguishable than that of adult fish.&lt;/p&gt;
+&lt;p&gt;Occlusion is a general, and the toughest tracking difficulty since occluded targets are recognized as a single connected component in image, and their identities may switch after the point of overlap. This issue can be corrected according to motion continuity. However, different from the adult’s continual pattern of swimming, larvae can stay static over a long period and then flick, which is referred to as oscillatory movements. This locomotive characteristic, along with larva&amp;rsquo;s abruptly switched swim modes yields to a long-lasting occlusion where larvae can change their motion stochastically. This results in the poor performance of systems that calculate the most likely assignment of identities before and after an occlusion based on continuous motion models and body geometry.&lt;/p&gt;
+&lt;p&gt;Presently, confronted with these tracking difficulties for larvae, the most widely-used workaround is to segregate single larva in multiwell plates physically. Another state-of-the-art solution, the well-known idTracker.ai, takes advantage of the powerful feature extracting capability of deep learning to identify objects individually. Besides, ZebraZoom and Wang et al. use background subtraction to segment and track larvae.
+Under certain circumstances, these methods work quite well, whereas it still seems that they have their limitations. Strictly limiting experiments to one zebrafish per dish constrains the research application as group behavior investigations, for example, cannot be performed. idTracker.ai is computationally and memory expensive, and requires a whole recording to train the neural network, which disables this method to fit in real-time, streaming applications. ZebraZoom and the method proposed by Wang et al. is only capable of processing a restricted number of larvae ($&amp;lt;$10) as their capability to tackle the occlusion problem is limited.&lt;/p&gt;
+&lt;p&gt;This project proposed DanioSense, an efficient, robust, and high-throughput tracking system to automate the quantification of zebrafish larvae group movement. The task of tracking group larval zebrafish is to&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;discover multiple objects in individual frames; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;maintain the identity information across continuous frames; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;yield their trajectories while recording the statistical parameters. &lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The main contributions of this work include&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;resolving the occlusion problem to obtain reliable trajectories with a light pre-trained convolutional neural network and a centerline extraction algorithm; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;handling the discontinuous kinematics by an Adaptive Kalman Filter to obtain the optimal estimation of larvae’s locomotive parameters; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;adopting an enriched vector instead of a point to generate more detailed morphology and movement statistics; &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;providing a variety of tracking visualization functions that offers users an intuitive sense of larval movements. &lt;br&gt;
+In addition, DanioSense is applicable to the behavior quantification of other fish-like animals, only requiring users to upload their own datasets and retrain the convolutional neural network classifier.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There is a video which represents the performance of the algorithm here:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;For more detailed information, please refer to this &lt;a href=&#34;/files/DanioSense%20Automated%20High-throughput%20Quantification%20of%20Zebrafish%20Larvae%20Group%20Movement.pdf&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, which is submitted to &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Automation Science and Engineering&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Supervisor: Prof. &lt;a href=&#34;https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huijun Gao&lt;/a&gt;,  IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual-Based Contact Detection for Automated Zebrafish Larva Heart Microinjection</title>
+      <link>/publication/visual-based-contact-detection-for-automated-zebrafish-larva-heart-microinjection/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0800</pubDate>
+      <guid>/publication/visual-based-contact-detection-for-automated-zebrafish-larva-heart-microinjection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zebrafish Larva Positioning System</title>
+      <link>/project/zebrafish-larva-positioning-system/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/zebrafish-larva-positioning-system/</guid>
+      <description>&lt;p&gt;Positioning the larva inside a micropipette accurately and robustly plays a pivotal role in the transportation process. The objective of this system is to transfer a larva from one location to another and adjust its posture for micromanipulation, organ imaging, drug-specific phenotypic observation, etc. A well-known relevant system is &lt;a href=&#34;https://www.unionbio.com/vast/&#34;&gt;VAST BioImager&lt;/a&gt;, which is a modular and expandable platform that is convenient to integrate with many microscopes. A typical application of VAST BioImager is to model the skeleton bones of zebrafish larvae in a super fast speed of several seconds.&lt;/p&gt;
+
+&lt;p&gt;The setup and workflow of this system are illustrated as follows:
+&lt;figure&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;Device and schematic&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Calibration. Compute the transformation matrix with the gradient-descent-based parametric identification.
+&lt;figure&gt;&lt;img src=&#34;c1.jpg&#34; alt=&#34;c1&#34;&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;Detect the object, analyse its posture.&lt;/li&gt;
+&lt;li&gt;Drive the mechanical device to adjust the object to the ideal orientation.&lt;/li&gt;
+&lt;li&gt;Inhale the larva into the pipette and position it to the desired position.&lt;/li&gt;
+&lt;li&gt;The micromanipulator moves the pipette to the releasing position.&lt;/li&gt;
+&lt;li&gt;Release larva.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The difficulties include:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Abrupt motion in the process of aspiration or dispensing, as illustrated in the following video:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/li&gt;
+&lt;li&gt;Sensitive dynamic characteristics when positioning the object, shown in the video below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/li&gt;
+&lt;li&gt;Difficulties for video tracking, including the abruptive motion, objects that are out of focus and blocked up, etc.
+&lt;figure&gt;&lt;img src=&#34;3.png&#34; alt=&#34;3&#34;&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To deal with the object’s abrupt motion, defocus, occlusion problems, a fast and reliable tracker is designed, achieving a processing velocity of over 100 frames per second and an locating accuracy within 5 pixels.&lt;/p&gt;
+
+&lt;p&gt;To model the background, an adapted Gaussian Mixture model is adopted, with equations as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[p\left( {\vec x|{\chi _T},BG + FG} \right) = \sum\limits_{m = 1}^M {{\pi _m}} {\rm{N}}\left( {\vec x;\overrightarrow {{\mu _m}} ,\sigma _m^2*I} \right) \]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\begin{array}{*{20}{c}}
+{\pi _m^\prime  = {\pi _m} + \alpha \left( {O_m^t - {\pi _m}} \right)}\\
+{\vec \mu _m^\prime  = {{\vec \mu }_m} + O_m^t\left( {\alpha /{\pi _m}} \right){{\vec \delta }_m}}\\
+{\sigma _m^{{2^\prime }} = \sigma _m^2 + O_m^t\left( {\alpha /{\pi _m}} \right)\left( {\vec \delta _m^T{\delta _m} - \sigma _m^2} \right)}
+\end{array}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;After that, subtract the frame from the background, and then the Otsu thresholding method, along with morphological operations, is performed to segment the whole contour. With the contour, the larval position is calculated, shown in the video below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;3.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;To model this system, the force analysis is conducted as follows:
+&lt;figure&gt;&lt;img src=&#34;model.jpg&#34; alt=&#34;model&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\begin{array}{*{20}{l}}
+{m{{\ddot x}_w} + b{{\dot x}_w} + G\sin \theta  = {P_0}{S_{pip}} - \frac{{{P_{air,0}}{V_{air,0}}}}{{{V_{air,0}} + u{S_{pis}} - {x_w}{S_{pip}}}}{S_{pip}}}\\
+{m{{\ddot x}_w} + b{{\dot x}_w} + G\sin \theta  = \frac{{{P_0}{S_{pip}}{V_{air,0}} + {P_0}{S_{pip}}{S_{pis}}u - {P_0}S_{pip}^2{x_w} - {P_{air,0}}{V_{air,0}}{S_{pip}}}}{{{V_{air,0}} + u{S_{pis}} - {x_w}{S_{pip}}}}}\\
+{m{{\ddot x}_w} + b{{\dot x}_w} + G\sin \theta  = \frac{{{P_0}{S_{pip}}{V_{air,0}} + {P_0}{S_{pip}}{S_{pis}}u - {P_0}S_{pip}^2{x_w} - {P_{air,0}}{V_{air,0}}{S_{pip}}}}{{{V_{air,0}}}}}\\
+{m{{\ddot x}_w} + b{{\dot x}_w} + \frac{{{P_0}S_{pip}^2}}{{{V_{air,0}}}}{x_w} + G\sin \theta  = \frac{{{P_0}{S_{pip}}{S_{pis}}}}{{{V_{air,0}}}}u + \left( {{P_0} - {P_{air,0}}} \right){S_{pip}}}
+\end{array}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Build the dynamic model:&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\begin{array}{*{20}{l}}
+{m\ddot x + K\ddot x + \frac{K}{b}\frac{{{P_0}S_{pip}^2}}{{{V_{air,0}}}}\left( {\frac{{m\ddot x + G\sin \theta }}{K} + \dot x} \right) = \frac{{K{P_0}{S_{pp}}{S_{pis}}}}{{b{V_{air,0}}}}u}\\
+{m\ddot x + K\ddot x + \frac{K}{b}\frac{{{P_0}S_{pip}^2}}{{{V_{air,0}}}}\frac{m}{K}\ddot x + \frac{K}{b}\frac{{{P_0}S_{pip}^2}}{{{V_{air,0}}}}\frac{{G\sin \theta }}{K} + \frac{K}{b}\frac{{{P_0}S_{pip}^2}}{{{V_{air,0}}}}\dot x = \frac{{K{P_0}{S_{pip}}{S_{pis}}}}{{b{V_{air,0}}}}u}\\
+{m\ddot x + \left( {\frac{{m{P_0}S_{pp}^2}}{{b{V_{air,0}}}} + K} \right)\ddot x + \frac{{K{P_0}S_{pip}^2}}{{b{V_{air,0}}}}\dot x + \frac{{{P_0}S_{pip}^2G\sin \theta }}{{b{V_{ijr,0}}}} = \frac{{K{P_0}{S_{pip}}{S_{pis}}}}{{b{V_{air,0}}}}u}
+\end{array}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Abbreviate it in the fllowing form:&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[{a_1}\ddot x + {a_2}\ddot x + {a_3}\dot x + {a_4} = bu\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The parameters of the dynamic model are identified by the frequency response test, after which the PID control algorithm is desinged, achieving the following control effect:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;4.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;This system manages to position a larva to a desired position in the inclined micropipette for larva transfer and manipulation, which could hardly be achieved manually. Presently, the PID control effect is not optimal for larvae with different ages. Thus, I have been working on using the Adaptive Robust control to enhance the control performance, and extend its application to other organisms, such as embryo. I plan to write a paper and submit it to IEEE Transactions on Automation Science and Engineering.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Supervisor: Prof. &lt;a href=&#34;https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&amp;amp;hl&#34;&gt;Huijun Gao&lt;/a&gt;,  IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Larva yolk deformation tracking, Cell counting, and Larva heart status monitoring</title>
+      <link>/project/some-small-projects/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/some-small-projects/</guid>
+      <description>&lt;h1 id=&#34;larva-yolk-deformation-tracking&#34;&gt;Larva yolk deformation tracking&lt;/h1&gt;
+&lt;p&gt;This algorithm uses optical flow to track the deformation of the zebrafish larva yolk, which serves as a visual feedback module for larva yolk soft capture.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;h1 id=&#34;cell-counting&#34;&gt;Cell counting&lt;/h1&gt;
+&lt;p&gt;This algorithm automates the task of counting the number of cells in the stem cell culture apparatus. It overcomes the uneven illumination, the low intensity between objects and background, and thin lines interference.
+&lt;img src=&#34;1.jpg&#34; alt=&#34;Device and schematic&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;larva-heart-status-monitoring&#34;&gt;Larva heart status monitoring&lt;/h1&gt;
+&lt;p&gt;After heart injection, the heart rate is often measured to evaluate the toxicity of certain drugs. This algorithm automates the monitoring process.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+&lt;p&gt;Supervisor: Prof. &lt;a href=&#34;https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huijun Gao&lt;/a&gt;,  IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Fish</title>
+      <link>/post/kalimba/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/kalimba/</guid>
+      <description>&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;This piece of music is the theme song of a movie named &lt;a href=&#34;https://en.wikipedia.org/wiki/Big_Fish_%26_Begonia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Big Fish &amp;amp; Begonia&lt;/em&gt;&lt;/a&gt;, one of my favorites. For this reason, I played this song with Kalimba.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;kalimba.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;h2 id=&#34;plot&#34;&gt;Plot&lt;/h2&gt;
+&lt;p&gt;In a mystical realm that exists beneath the human world, populated by magical-powered beings, a girl named Chun participates in a coming-of-age ritual where she is transported through a portal of water to experience the human world in the form of a red dolphin. There, she encounters a human boy who lives by the sea and reveres aquatic creatures. During a storm, Chun is tangled in a fishing net near the boy&amp;rsquo;s house, and the boy drowns while freeing her from the net. Chun returns to her world, taking the boy&amp;rsquo;s ocarina with her.&lt;/p&gt;
+&lt;p&gt;Chun bargains with the Soul Keeper, a resident of her world who collects virtuous departed souls from the human world, to return the boy to life. The Soul Keeper takes half of her lifespan in exchange for giving her the boy&amp;rsquo;s soul, which has manifested in this world in the form of a baby dolphin. She advises her that she must nurture the dolphin to adulthood in order to return the boy&amp;rsquo;s soul to the human world. Qiu, Chun&amp;rsquo;s childhood friend, discovers her undertaking; since beings from the human world are forbidden, he promises to help her keep her task secret. Together, they name the dolphin Kun, after a massive fish of legend.&lt;/p&gt;
+&lt;p&gt;Chun&amp;rsquo;s mother soon finds Kun and throws him into the sewer. While searching for Kun, Chun and Qiu meet the rat matron, who collects the souls of sinners from the human world, which manifest in the form of rats. She takes an interest in the dolphin and summons her rats to recover him from the sewer.&lt;/p&gt;
+&lt;p&gt;Later, Chun and Qiu manage to take Kun away before he is narrowly discovered by the villagers. In their search for a new home for the dolphin, Qiu is bitten by a two-headed snake. Chun&amp;rsquo;s grandfather draws the venom into his own body to save Qiu&amp;rsquo;s life. Before succumbing to the venom, he confides in her that he will support her in her task even in death. After his passing, his soul manifests in the form of a begonia tree.&lt;/p&gt;
+&lt;p&gt;As Chun&amp;rsquo;s world begins to experience unnatural torrential rains and snowfall, her family and the local elders realize that Kun&amp;rsquo;s continued presence has caused these phenomena. One night, after Chun confesses to Qiu that she traded away half her lifespan, Qiu receives a warning from the rat matron to hide Kun. He puts Kun in a frozen lake in order to save Chun from further persecution, but Chun dives in after Kun. The rat matron summons her rats to recover Chun and Kun from the icy water, and takes the ocarina from Chun, planning to use it to secure her own passage to the human world.&lt;/p&gt;
+&lt;p&gt;As Chun continues to watch over Kun, Qiu visits the soul keeper to bargain his own life for the return of Chun&amp;rsquo;s. The soul keeper demands his entire lifespan as payment, while warning that Chun will still die regardless when Kun returns to the human world. The soul keeper reveals to Qiu how to save Chun from this fate.&lt;/p&gt;
+&lt;p&gt;The residents of Chun&amp;rsquo;s world gather to kill Kun and avert further calamity. Qiu arrives and performs the ritual to open a portal to the human world, but Kun is unable to swim through it, while the rat matron arrives and uses the ocarina to pass through the portal. Holes in the sky begin to open uncontrollably, flooding Chun&amp;rsquo;s world with sea water from the human world.&lt;/p&gt;
+&lt;p&gt;Chun is reminded that her actions to save Kun are dooming the people of her own world; she tries to help them evacuate from the flood, but is spurned by all, including her mother. As a last resort, Chun sacrifices herself, merging her body with her grandfather&amp;rsquo;s begonia tree to grow it to colossal proportions, plugging the holes in the sky and saving everyone from the flood.&lt;/p&gt;
+&lt;p&gt;Kun breaks a branch off the begonia tree and brings it to the soul keeper, who restores Chun to life from it. She sets her on a pilgrimage to return Kun to his world; along the way, they find Qiu, who joins them. Qiu asks her whether she would like to live in the human world herself, but, overwhelmed with regret in knowing they are spending their last night together, is unable to express his feelings for her.&lt;/p&gt;
+&lt;p&gt;The next day, Chun bids Kun farewell as Qiu opens one last portal for his return. At the same time, Qiu, following the soul keeper&amp;rsquo;s instructions, casts a spell that will send Chun to the human world while killing him by setting him on magical fire. As he burns away, Qiu tells her that when she sees the wind and rain to think of him and he&amp;rsquo;ll be with her always. Chun is transformed into a red dolphin, allowing her to follow Kun through the portal.&lt;/p&gt;
+&lt;p&gt;On a seashore in the human world, Kun and Chun wash ashore in their human forms. As Kun comes to, he sees Chun holding out her hand to him.&lt;/p&gt;
+&lt;p&gt;In a mid-credits scene, the soul keeper restores Qiu to life from his ashes and declares Qiu her successor, revealing the true cost of Qiu&amp;rsquo;s sacrifice for Chun.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zebrafish Larva Morphology Analysis</title>
+      <link>/project/zebrafish-larvae-morphology-analysis/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/zebrafish-larvae-morphology-analysis/</guid>
+      <description>&lt;p&gt;The capability to directly deliver agent into the heart inside a single vertebrate is important for understanding organs activities, tissues regeneration, and developing disease models and therapeutic approaches. Despite recent success in exploiting robots to perform injection of cells, embryos, and small animals, it remains challenging to automatically achieve intracardial agent injection due to its inaccessible position, inappropriate immobilization force, and inaccurate localization. Here my labortory develops a high-throughput in vivo heart injection system which enables intracardial agent delivery of a single zebrafish larva in less than fifty seconds. This system not only consistently orients the zebrafish to a pre-designed posture but also provides a controllable capture and injection technique to regulate the deformative injury. Horizontal projection and space height of zebrafish heart are determined with micrometer resolution. To illustrate the power of our system, we have injected several classes of agents and analyzed the results which correlate well with known mechanisms of actions in mammals.&lt;/p&gt;
+&lt;p&gt;This video illustrates the workflow of the algorithm here (updated in 07/2019):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;workflow.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;The device and schematic of the micromanipulation system is shown in the following picture.
+&lt;img src=&#34;1.jpg&#34; alt=&#34;Device and schematic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The objective of zebrafish larva morphology analysis algorithm is to&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;detect the larval posture;&lt;/li&gt;
+&lt;li&gt;extract its orientation and belly direction;&lt;/li&gt;
+&lt;li&gt;give visual feedback to the mechanical device to rotate the object to the desired posture;&lt;/li&gt;
+&lt;li&gt;calculate the inhaling position and drive the manipulator to capture the object.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The difficulties inlude&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;uneven illumination;&lt;/li&gt;
+&lt;li&gt;noise distractions, such as bubbles, excretion, and small particles, which could cause troubles for extracting the contour of the object;&lt;/li&gt;
+&lt;li&gt;morphological variations for different objects with various ages, sizes, contours;&lt;/li&gt;
+&lt;li&gt;requirements for high processing speed, which means the visual feedback algorithm needs to achive a bandwith of at least 40 fps.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This algorithm used a range of traditional image processing techniques to achieve robust, accurate, and fast morphology analysis. The workflow is illustrated as follows:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;Workflow&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Select the region of interest (ROI)&lt;/li&gt;
+&lt;li&gt;Denoise with Gaussian filter and Gaussian filter and Gaussian bilateral filter, where the point is how to cancel the noise without eroding the contour. Confronted with this difficulty, I combine two types of filter.&lt;/li&gt;
+&lt;li&gt;Adaptive thresholding to extract the foreground while address the uneven illumination.&lt;/li&gt;
+&lt;li&gt;Median filterring and contour extraction.&lt;/li&gt;
+&lt;li&gt;Cut the contour into two parts, compare the curvatures of each one to determine the belly side.&lt;/li&gt;
+&lt;li&gt;Calculate the direction and the degree needed to rotate the object to the desired posture.&lt;/li&gt;
+&lt;li&gt;The mechanical device, a stepper motor, drives the object into the ultimate position with P control.&lt;/li&gt;
+&lt;li&gt;Reach the desired podture.&lt;/li&gt;
+&lt;li&gt;Adaptive thresholding.&lt;/li&gt;
+&lt;li&gt;Median filterring.&lt;/li&gt;
+&lt;li&gt;Contour extraction.&lt;/li&gt;
+&lt;li&gt;Calculate the inhaling position, painted in a red point.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This algorithms achieves&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;success rate: 98% for larvae aged between 1 dpf to 4 dpf.&lt;/li&gt;
+&lt;li&gt;accracy: &amp;lt;3 deg.(orientation) &amp;lt;5 pixels (inhaling point)&lt;/li&gt;
+&lt;li&gt;bandwidth: &amp;gt;40 fps&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It works effectively for larvae aged between 1 to 4 dpf with various morphological features.
+Furthermore, this project has applied for 4 patents.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Supervisor: Prof. &lt;a href=&#34;https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huijun Gao&lt;/a&gt;,  IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

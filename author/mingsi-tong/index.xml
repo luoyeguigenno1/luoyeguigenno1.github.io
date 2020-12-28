@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingsi Tong | Chun-xiang WANG</title>
+    <link>/author/mingsi-tong/</link>
+      <atom:link href="/author/mingsi-tong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingsi Tong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Mingsi Tong</title>
+      <link>/author/mingsi-tong/</link>
+    </image>
+    
+    <item>
+      <title>DanioSense Automated High-throughput Quantification of Zebrafish Larvae Group Movement</title>
+      <link>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual-Based Contact Detection for Automated Zebrafish Larva Heart Microinjection</title>
+      <link>/publication/visual-based-contact-detection-for-automated-zebrafish-larva-heart-microinjection/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0800</pubDate>
+      <guid>/publication/visual-based-contact-detection-for-automated-zebrafish-larva-heart-microinjection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

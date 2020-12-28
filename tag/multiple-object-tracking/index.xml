@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiple-object Tracking | Chun-xiang WANG</title>
+    <link>/tag/multiple-object-tracking/</link>
+      <atom:link href="/tag/multiple-object-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multiple-object Tracking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Multiple-object Tracking</title>
+      <link>/tag/multiple-object-tracking/</link>
+    </image>
+    
+    <item>
+      <title>DanioSense Automated High-throughput Quantification of Zebrafish Larvae Group Movement</title>
+      <link>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0800</pubDate>
+      <guid>/publication/daniosense-automated-high-throughput-quantification-of-zebrafish-larvae-group-movement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
